@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install --save apology
+$ npm install --save celeb-diwali
 ```
 
 ## Installation
@@ -31,7 +31,8 @@ const celeb = require('../index.js');
 console.log(celeb.getRandomWish());
 
 /*
- May millions of lamps illuminate your life with endless prosperity, health, and wealth forever…wishes you & your family a very ― Happy Diwali!
+ May millions of lamps illuminate your life with endless prosperity, health, and wealth forever!
+ Wishing you & your family a very Happy Diwali!
 */
 
 ```
