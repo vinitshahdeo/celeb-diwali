@@ -38,7 +38,10 @@ console.log(diwali.getRandomWish());
 console.log(diwali.sendRandomWish("Vinit"));
 
 /*
-May you have all the joy your heart can hold, All the smiles a day can bring, All the blessings a life can unfold, May you get the world’s best in everything. 
+May you have all the joy your heart can hold, 
+All the smiles a day can bring, 
+All the blessings a life can unfold, 
+May you get the world’s best in everything. 
 Wishing You Happy Diwali.
 Regards - Vinit
 */
@@ -47,7 +50,8 @@ console.log(diwali.sendDiwaliWish("Shreya","Vinit"));
 
 /*
 Hey Shreya,
-A true and caring relation doesn’t have to speak loud, a soft SMS is just enough to express the heartiest feelings. Enjoy the festival of Diwali with lots of fun.
+A true and caring relation doesn’t have to speak loud, a soft SMS is just enough to express the heartiest feelings. 
+Enjoy the festival of Diwali with lots of fun.
 Wishing You Happy Diwali.
 - Vinit
 */
@@ -56,7 +60,7 @@ Wishing You Happy Diwali.
 
 ## Examples
 
-  To view the examples, clone the *celeb-diwali* repo and install the dependencies:
+  To view the examples, clone the **celeb-diwali** repo and install the dependencies:
 
 ```bash
 $ git clone https://github.com/vinitshahdeo/celeb-diwali.git
