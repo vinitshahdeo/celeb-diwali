@@ -3,7 +3,7 @@
 > A simple node module which generates Diwali Wishes randomly.
 
 
-## Install
+## Getting started
 
 ```
 $ npm install --save celeb-diwali
@@ -27,12 +27,29 @@ $ npm install celeb-diwali
 
 ```js
 
-const celeb = require('../index.js');
-console.log(celeb.getRandomWish());
+const diwali = require('celeb-diwali');
+console.log(diwali.getRandomWish());
 
 /*
  May millions of lamps illuminate your life with endless prosperity, health, and wealth forever!
  Wishing you & your family a very Happy Diwali!
+*/
+
+console.log(diwali.sendRandomWish("Vinit"));
+
+/*
+May you have all the joy your heart can hold, All the smiles a day can bring, All the blessings a life can unfold, May you get the world’s best in everything. 
+Wishing You Happy Diwali.
+Regards - Vinit
+*/
+
+console.log(diwali.sendDiwaliWish("Shreya","Vinit"));
+
+/*
+Hey Shreya,
+A true and caring relation doesn’t have to speak loud, a soft SMS is just enough to express the heartiest feelings. Enjoy the festival of Diwali with lots of fun.
+Wishing You Happy Diwali.
+- Vinit
 */
 
 ```
