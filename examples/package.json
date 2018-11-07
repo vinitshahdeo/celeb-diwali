@@ -1,0 +1,19 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "description": "demo for celeb-diwali",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "diwali",
+    "wish",
+    "sms"
+  ],
+  "author": "Vinit Shahdeo",
+  "license": "MIT",
+  "dependencies": {
+    "celeb-diwali": "^1.0.0"
+  }
+}
