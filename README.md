@@ -42,15 +42,15 @@ console.log(celeb.getRandomWish());
   To view the examples, clone the *celeb-diwali* repo and install the dependencies:
 
 ```bash
-$ git clone git://github.com/expressjs/express.git --depth 1
-$ cd express
+$ git clone https://github.com/vinitshahdeo/celeb-diwali.git
+$ cd examples
 $ npm install
 ```
 
   Then run whichever example you want:
 
 ```bash
-$ node examples/content-negotiation
+$ node demo.js
 ```
 
 ## License
