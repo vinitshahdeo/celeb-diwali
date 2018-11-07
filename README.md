@@ -50,7 +50,8 @@ console.log(diwali.sendDiwaliWish("Shreya","Vinit"));
 
 /*
 Hey Shreya,
-A true and caring relation doesn’t have to speak loud, a soft SMS is just enough to express the heartiest feelings. 
+A true and caring relation doesn’t have to speak loud, 
+a soft SMS is just enough to express the heartiest feelings. 
 Enjoy the festival of Diwali with lots of fun.
 Wishing You Happy Diwali.
 - Vinit
