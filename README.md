@@ -63,7 +63,7 @@ Wishing You Happy Diwali.
 
 ## Examples
 
-  To view the examples, clone the **celeb-diwali** repo and install the dependencies:
+To view the examples, clone the **celeb-diwali** repo and install the dependencies:
 
 ```bash
 $ git clone https://github.com/vinitshahdeo/celeb-diwali.git
@@ -71,7 +71,7 @@ $ cd examples
 $ npm install
 ```
 
-  Then run whichever example you want:
+Then run whichever example you want:
 
 ```bash
 $ node demo.js
@@ -80,3 +80,5 @@ $ node demo.js
 ## License
 
 MIT &copy; [Vinit Shahdeo](http://vinitshahdeo.com)
+
+![Happy Diwali](http://bestanimations.com/Holidays/Fireworks/fireworks/amazing-electrc-feel-fireworks-gif.gif)
