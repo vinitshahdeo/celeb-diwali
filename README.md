@@ -81,4 +81,4 @@ $ node demo.js
 
 MIT &copy; [Vinit Shahdeo](http://vinitshahdeo.com)
 
-![Happy Diwali](https://3.bp.blogspot.com/-Jq_517MxXfk/V_5FANkNKtI/AAAAAAAAC-I/jpk1By7JTaokBIO3GAsV7ZVBKzDHd2jGACLcB/s1600/Happy%2BDiwali%2BAnimation%2BImage.gif)
+[![Happy Diwali](https://img.shields.io/badge/Happy-Diwali-orange.svg?style=for-the-badge)](https://github.com/vinitshahdeo/celeb-diwali)
