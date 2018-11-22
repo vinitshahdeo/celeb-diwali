@@ -3,7 +3,7 @@
 > A simple node module which generates Diwali Wishes randomly.
 
 [![NPM VERSION](http://img.shields.io/npm/v/celeb-diwali.svg?style=flat)](https://www.npmjs.org/package/celeb-diwali)
-[![LICENSE](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/vinitshahdeo/celeb-diwali/blob/master/LICENSE)
+[![LICENSE](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/vinitshahdeo/celeb-diwali/blob/master/LICENSE)
 
 ## Getting started
 
