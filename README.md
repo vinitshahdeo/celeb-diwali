@@ -79,6 +79,6 @@ $ node demo.js
 
 ## License
 
-MIT &copy; [Vinit Shahdeo](http://vinitshahdeo.com)
+**MIT &copy; [Vinit Shahdeo](http://vinitshahdeo.com)**
 
-[![Happy Diwali](https://img.shields.io/badge/Happy-Diwali-firebrick.svg?style=for-the-badge)](https://github.com/vinitshahdeo/celeb-diwali) [![Diwali Greetings](https://img.shields.io/badge/Diwali-Greetings-teal.svg?style=for-the-badge)](https://github.com/vinitshahdeo/celeb-diwali)
+[![Happy Diwali](https://img.shields.io/badge/Happy-Diwali-dodgerblue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/celeb-diwali) [![Diwali Greetings](https://img.shields.io/badge/Diwali-Greetings-teal.svg?style=for-the-badge)](https://github.com/vinitshahdeo/celeb-diwali)
