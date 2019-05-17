@@ -2,8 +2,8 @@
 
 > A simple node module which generates Diwali Wishes randomly.
 
-[![NPM VERSION](http://img.shields.io/npm/v/celeb-diwali.svg?style=flat)](https://www.npmjs.org/package/celeb-diwali)
-[![LICENSE](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/vinitshahdeo/celeb-diwali/blob/master/LICENSE)
+[![NPM VERSION](http://img.shields.io/npm/v/celeb-diwali.svg?style=flat&logo=npm)](https://www.npmjs.org/package/celeb-diwali)
+[![LICENSE](http://img.shields.io/badge/license-MIT-green.svg?style=flat&logo=github)](https://github.com/vinitshahdeo/celeb-diwali/blob/master/LICENSE)
 
 ## Getting started
 
@@ -12,6 +12,8 @@ $ npm install --save celeb-diwali
 ```
 
 ## Installation
+
+[![NODE JS](http://img.shields.io/badge/Node-JS-teal.svg?style=flat&logo=node.js)](https://nodejs.org/en/) [![celeb-diwali](http://img.shields.io/badge/npm%20install-celeb--diwali-red.svg?style=flat&logo=npm)](https://www.npmjs.org/package/celeb-diwali) 
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
 [npm registry](https://www.npmjs.com/).
